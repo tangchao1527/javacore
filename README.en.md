@@ -4,19 +4,17 @@
 代码记录细节
 
 #### Software Architecture
-Software architecture description
+jdk8+maven
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  记录细节
+2.  总结规律
+3.  使用场景
 
 #### Contribution
 
