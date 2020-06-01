@@ -1,4 +1,4 @@
-package com._520it.base.jdk8;
+package com._520it.base.jdk8.lambda;
 
 @FunctionalInterface
 public interface MyFun {
