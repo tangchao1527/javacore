@@ -51,6 +51,13 @@
             <artifactId>quartz</artifactId>
             <version>2.3.1</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/QRCode/QRCode 生成和解析二维码工具包 -->
+        <dependency>
+            <groupId>QRCode</groupId>
+            <artifactId>QRCode</artifactId>
+            <version>3.0</version>
+        </dependency>
+
     </dependencies>
 
 
