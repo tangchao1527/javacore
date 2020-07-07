@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.encryption;
 
 import java.io.File;
 import java.io.FileInputStream;

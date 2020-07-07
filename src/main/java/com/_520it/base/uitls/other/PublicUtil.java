@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.other;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

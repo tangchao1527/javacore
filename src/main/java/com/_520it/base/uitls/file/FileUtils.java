@@ -1,9 +1,9 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.file;
 
 import com._520it.base.common.MyFileFilter;
+import com._520it.base.uitls.encryption.MD5Utils;
 
 import java.io.File;
-import java.io.FileFilter;
 import java.io.FileOutputStream;
 import java.util.UUID;
 

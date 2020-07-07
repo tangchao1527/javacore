@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.other;
 
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;

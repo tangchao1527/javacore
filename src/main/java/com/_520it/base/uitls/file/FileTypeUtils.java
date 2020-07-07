@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.file;
 
 /**
  * @description: 文件类型工具类

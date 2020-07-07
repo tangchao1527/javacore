@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.file;
 
 import java.io.BufferedOutputStream;
 import java.io.OutputStream;
@@ -22,7 +22,7 @@ public class FileDownload {
 	 */
 	public static void fileDownload(final HttpServletResponse response, String filePath, String fileName) throws Exception{  
 		   
-		byte[] data = FileUtil.toByteArray2(filePath);  
+		byte[] data = FileOperationUtils.toByteArray2(filePath);
 	    fileName = URLEncoder.encode(fileName, "UTF-8");  
 	    response.reset();  
 	    response.setHeader("Content-Disposition", "attachment; filename=\"" + fileName + "\"");  

@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.other;
 
 public class PriceUtil {
     private static final String[] CN_UPPER_NUMBER = {"零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖"};

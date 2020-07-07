@@ -1,4 +1,4 @@
-package com._520it.base.uitls;
+package com._520it.base.uitls.file;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
